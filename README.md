@@ -23,3 +23,4 @@ Collect lives represented as hearts, and try to achieve the highest score possib
 ---
 
 Feel free to contribute and customize the game further!
+..
